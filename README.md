@@ -1,16 +1,8 @@
-# arson-for-smores
+Welcome to Arson for Smores! This game is like an artwork exhibit, where you climb up to your apartment door.
 
-A project for making s'mores with arson.
+This was a mini-project that I made a while back for the Smores gamejam (Campfire Flagship) for artwork!
 
-## Getting Started
+To move: left arrow key, right arrow key
+To jump: space bar
 
-Open \index.html\ in your browser to get started.
-
-## Features
-
-- Simple and easy to use
-- Responsive design
-
-## License
-
-MIT
+(Custom artwork)
